@@ -1,0 +1,5 @@
+{
+  "name": "Automated Medical History Review System (AMHRS)",
+  "description": "A smart healthcare system that assists doctors in decision-making using EHR data and advanced NLP for medical history analysis.",
+  "requestFramePermissions": []
+}
